@@ -1,0 +1,53 @@
+{
+    "defaultAnimation": "up",
+    "animations": {
+        "up": {
+            "imagePath": "img/tank.png",
+            "frames": [
+                {
+                    "sourceX": 0,
+                    "sourceY": 0,
+                    "width": 32,
+                    "height": 32,
+                    "time": 0
+                }
+            ]
+        },
+        "down": {
+            "imagePath": "img/tank.png",
+            "frames": [
+                {
+                    "sourceX": 32,
+                    "sourceY": 0,
+                    "width": 32,
+                    "height": 32,
+                    "time": 0
+                }
+            ]
+        },
+        "left": {
+            "imagePath": "img/tank.png",
+            "frames": [
+                {
+                    "sourceX": 64,
+                    "sourceY": 0,
+                    "width": 32,
+                    "height": 32,
+                    "time": 0
+                }
+            ]
+        },
+        "right": {
+            "imagePath": "img/tank.png",
+            "frames": [
+                {
+                    "sourceX": 96,
+                    "sourceY": 0,
+                    "width": 32,
+                    "height": 32,
+                    "time": 0
+                }
+            ]
+        }
+    }
+}

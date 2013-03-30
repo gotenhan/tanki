@@ -1,0 +1,24 @@
+{
+    "defaultAnimation": "ripple",
+    "animations": {
+        "ripple": {
+            "imagePath": "img/woda.png",
+            "frames": [
+                {
+                    "sourceX": 0,
+                    "sourceY": 0,
+                    "width": 32,
+                    "height": 32,
+                    "time": 550
+                },
+                {
+                    "sourceX": 32,
+                    "sourceY": 0,
+                    "width": 32,
+                    "height": 32,
+                    "time": 500
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "defaultAnimation": "idle",
+    "animations": {
+        "idle": {
+            "imagePath": "img/mur.png",
+            "frames": [
+                {
+                    "sourceX": 0,
+                    "sourceY": 0,
+                    "width": 32,
+                    "height": 32,
+                    "time": 0
+                }
+            ]
+        }
+    }
+}
